@@ -15,7 +15,7 @@ test('inTheGame', () => {
     expect(testingJS.score(0, 1)).toBe('love fifteen');
 });
 
-test('has winner', () => {
+test('Has Winner', () => {
     expect(testingJS.score(4, 0)).toBe('Player One win');
     expect(testingJS.score(0, 4)).toBe('Player Two win');
 });
