@@ -1,6 +1,8 @@
 // Import 想執行測試的 JS 進來
 const testingJS = require('../src/tennisKata.js');
 
+describe('tennieKata', ()=> {
+
 test('at all', () => {
     expect(testingJS.score(0, 0)).toBe('love all');
     expect(testingJS.score(1, 1)).toBe('fifteen all');
@@ -24,3 +26,5 @@ test('Deuce', () => {
     expect(testingJS.score(3, 3)).toBe('Deuce');
     expect(testingJS.score(4, 4)).toBe('Deuce');
 });
+
+})
