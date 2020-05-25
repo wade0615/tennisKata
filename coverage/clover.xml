@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1590376298759" clover="3.2.0">
+  <project timestamp="1590376298760" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="29" coveredconditionals="28" methods="8" coveredmethods="8" elements="56" coveredelements="55" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="/Users/wade/iMarts/others/tennisKata/src/main.js">
+      <metrics statements="19" coveredstatements="19" conditionals="29" coveredconditionals="28" methods="8" coveredmethods="8"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="10" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="16" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="22" count="24" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="22" type="cond" truecount="3" falsecount="0"/>
+      <line num="30" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="46" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

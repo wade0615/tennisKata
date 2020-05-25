@@ -1,0 +1,24 @@
+{
+  "name": "tennisKata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wade0615/tennisKata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wade0615/tennisKata/issues"
+  },
+  "homepage": "https://github.com/wade0615/tennisKata#readme"
+}
